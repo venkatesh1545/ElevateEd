@@ -43,8 +43,8 @@ body {
 
 .auth-image {
     flex: 1;
-    width: 100%;
-    height: calc(100% - 60px);
+    width: 90%;
+    height: 60%;
     object-fit: cover;
     border-radius: 1rem;
     margin-top: 1rem;
